@@ -18,4 +18,5 @@ Flask
 Flask-Cors
 pathlib
 dataclasses
+urllib
 -e .
